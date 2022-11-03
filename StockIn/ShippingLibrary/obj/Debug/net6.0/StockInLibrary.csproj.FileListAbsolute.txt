@@ -1,0 +1,28 @@
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\bin\Debug\net6.0\StockInLibrary.deps.json
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\bin\Debug\net6.0\StockInLibrary.runtimeconfig.json
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\bin\Debug\net6.0\StockInLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\bin\Debug\net6.0\StockInLibrary.pdb
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.csproj.AssemblyReference.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.AssemblyInfoInputs.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.AssemblyInfo.cs
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.csproj.CoreCompileInputs.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\obj\Debug\net6.0\refint\StockInLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.pdb
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.genruntimeconfig.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\ShippingApiSolution - Copy\ShippingLibrary\obj\Debug\net6.0\ref\StockInLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\bin\Debug\net6.0\StockInLibrary.deps.json
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\bin\Debug\net6.0\StockInLibrary.runtimeconfig.json
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\bin\Debug\net6.0\StockInLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\bin\Debug\net6.0\StockInLibrary.pdb
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.csproj.AssemblyReference.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.AssemblyInfoInputs.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.AssemblyInfo.cs
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.csproj.CoreCompileInputs.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\obj\Debug\net6.0\refint\StockInLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.pdb
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\obj\Debug\net6.0\StockInLibrary.genruntimeconfig.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockInApiSolution\ShippingLibrary\obj\Debug\net6.0\ref\StockInLibrary.dll
