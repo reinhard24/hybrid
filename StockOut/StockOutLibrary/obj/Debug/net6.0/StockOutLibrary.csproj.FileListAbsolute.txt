@@ -1,0 +1,14 @@
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\bin\Debug\net6.0\StockOutLibrary.deps.json
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\bin\Debug\net6.0\StockOutLibrary.runtimeconfig.json
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\bin\Debug\net6.0\StockOutLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\bin\Debug\net6.0\StockOutLibrary.pdb
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\obj\Debug\net6.0\StockOutLibrary.csproj.AssemblyReference.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\obj\Debug\net6.0\StockOutLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\obj\Debug\net6.0\StockOutLibrary.AssemblyInfoInputs.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\obj\Debug\net6.0\StockOutLibrary.AssemblyInfo.cs
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\obj\Debug\net6.0\StockOutLibrary.csproj.CoreCompileInputs.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\obj\Debug\net6.0\StockOutLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\obj\Debug\net6.0\refint\StockOutLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\obj\Debug\net6.0\StockOutLibrary.pdb
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\obj\Debug\net6.0\StockOutLibrary.genruntimeconfig.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockOutApiSolution\StockOutLibrary\obj\Debug\net6.0\ref\StockOutLibrary.dll
