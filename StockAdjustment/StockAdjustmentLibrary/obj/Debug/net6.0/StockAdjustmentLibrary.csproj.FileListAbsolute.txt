@@ -1,0 +1,14 @@
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\bin\Debug\net6.0\StockAdjustmentLibrary.deps.json
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\bin\Debug\net6.0\StockAdjustmentLibrary.runtimeconfig.json
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\bin\Debug\net6.0\StockAdjustmentLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\bin\Debug\net6.0\StockAdjustmentLibrary.pdb
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\obj\Debug\net6.0\StockAdjustmentLibrary.csproj.AssemblyReference.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\obj\Debug\net6.0\StockAdjustmentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\obj\Debug\net6.0\StockAdjustmentLibrary.AssemblyInfoInputs.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\obj\Debug\net6.0\StockAdjustmentLibrary.AssemblyInfo.cs
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\obj\Debug\net6.0\StockAdjustmentLibrary.csproj.CoreCompileInputs.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\obj\Debug\net6.0\StockAdjustmentLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\obj\Debug\net6.0\refint\StockAdjustmentLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\obj\Debug\net6.0\StockAdjustmentLibrary.pdb
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\obj\Debug\net6.0\StockAdjustmentLibrary.genruntimeconfig.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\StockAdjustmentApiSolution\StockAdjustmentLibrary\obj\Debug\net6.0\ref\StockAdjustmentLibrary.dll
