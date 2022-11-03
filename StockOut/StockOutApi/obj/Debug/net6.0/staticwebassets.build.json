@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a5CwF9uoN59TjAhXbPERZsT9B0qQjnfEe9HyhrScFMk=",
+  "Source": "StockOutApi",
+  "BasePath": "_content/StockOutApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
