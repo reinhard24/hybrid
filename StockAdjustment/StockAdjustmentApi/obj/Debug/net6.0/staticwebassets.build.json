@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l5IaXjuzbe8CibeeReuGY5fHqyJuCqA/UeVgHl6pERg=",
+  "Source": "StockAdjustmentApi",
+  "BasePath": "_content/StockAdjustmentApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
