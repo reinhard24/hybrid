@@ -1,0 +1,14 @@
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\bin\Debug\net6.0\CatalogLibrary.deps.json
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\bin\Debug\net6.0\CatalogLibrary.runtimeconfig.json
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\bin\Debug\net6.0\CatalogLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\bin\Debug\net6.0\CatalogLibrary.pdb
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\obj\Debug\net6.0\CatalogLibrary.csproj.AssemblyReference.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\obj\Debug\net6.0\CatalogLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\obj\Debug\net6.0\CatalogLibrary.AssemblyInfoInputs.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\obj\Debug\net6.0\CatalogLibrary.AssemblyInfo.cs
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\obj\Debug\net6.0\CatalogLibrary.csproj.CoreCompileInputs.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\obj\Debug\net6.0\CatalogLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\obj\Debug\net6.0\refint\CatalogLibrary.dll
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\obj\Debug\net6.0\CatalogLibrary.pdb
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\obj\Debug\net6.0\CatalogLibrary.genruntimeconfig.cache
+C:\ProgrammingFiles\C#\personal-files\hybridapi\CatalogApiSolution\CatalogLibrary\obj\Debug\net6.0\ref\CatalogLibrary.dll
